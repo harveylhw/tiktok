@@ -3,7 +3,7 @@
 用于检查您的 Tiktok 区域的 Bash 脚本
 
 ````bash
-bash <(curl -s https://raw.githubusercontent.com/TikTok365/tiktok_check/main/tiktok.sh)
+bash <(curl -s https://raw.githubusercontent.com/harveylhw/tiktok/main/tiktok.sh)
 ````
 
 # English introduction
@@ -11,5 +11,5 @@ bash <(curl -s https://raw.githubusercontent.com/TikTok365/tiktok_check/main/tik
 A Bash script to check your Tiktok region
 
 ````bash
-bash <(curl -s https://raw.githubusercontent.com/TikTok365/tiktok_check/main/tiktok.sh)
+bash <(curl -s https://raw.githubusercontent.com/harveylhw/tiktok/main/tiktok.sh)
 ````
