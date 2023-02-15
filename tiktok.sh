@@ -122,7 +122,7 @@ clear
 
 function ScriptTitle() {
     echo -e "${Font_SkyBlue}【Tiktok区域检测】${Font_Suffix}"
-    echo -e "${Font_Green}BUG反馈或使用交流可加TG${Font_Suffix} ${Font_Yellow}https://t.me/tiktokhawk ${Font_Suffix}"
+    echo -e "${Font_Green}BUG反馈或使用交流可加TG${Font_Suffix} ${Font_Yellow}https://t.me/Harveytt ${Font_Suffix}"
     echo ""
     echo -e " ** 测试时间: $(date)"
     echo ""
